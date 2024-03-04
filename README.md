@@ -40,14 +40,37 @@ GNI = GDP + net property income
 **GNI per capita**
 A measure of GNI per heading of population. This is useful for making comparisons between clj tries and for meansuring a country's economic development.
 
-$Pressure = \frac{Forece}{Area}$
+$Pressure = + Investment + All the government spending \frac{Forece}{Area}$
 
 **Real GDP**
 Adjusting for inflation allows national income figures to be effectively compared over time and measure economic growth.
 E.g. 
 if a country's noominal GDP incrases by 5% but thay country's inflation rate was alse 5%, the economy will not have grown during that time period.
 
+**Economic growth and the business (trade) cycle**
+**Economic growth** is defined as an increase in a country's real GDP oever time, measured by the percentage increase in real GDP oever one year.
 
+$Growth rate = [\frac{GDP for current year - GDP for previous year}{GDP for previous year}] * 100%$
+
+
+******
+
+Definition of aggregate demand'
+qggregate demand 
+
+AD = consumption + investment + government spending + (exports - imports)
+
+
+The aggregate demand (AD) curve
+
+The aggregate demand curve shows the relationship between the average price level of an economy and the demand for the putput of the economy (represented by real GDP). The average price level of the exonomy is the average prce of all goods and sercices produced in an exonomy at a given proint in time.
+
+Components of aggregate demand (and their determinants)
+1. Consumption (C) is household spending on final goods and services. Spending on intermeiate goods (mansufactureres selling goods to retailers) is not included in consumption. Consumption spending in dveloped countries accounts for around 70% of total GDP and is even higher than this in developing countries.
+Determinants of consumption:
+- household income: There is 
+- interest rates:
+- consumer confidence:
 
 
 
