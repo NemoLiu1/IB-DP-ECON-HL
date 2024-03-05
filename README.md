@@ -68,9 +68,10 @@ The aggregate demand curve shows the relationship between the average price leve
 Components of aggregate demand (and their determinants)
 1. Consumption (C) is household spending on final goods and services. Spending on intermeiate goods (mansufactureres selling goods to retailers) is not included in consumption. Consumption spending in dveloped countries accounts for around 70% of total GDP and is even higher than this in developing countries.
 Determinants of consumption:
-- household income: There is 
-- interest rates:
-- consumer confidence:
+- household income: There is positivei relationship between household income and consumption (as the majority of consumer spending is on normal goods)
+- interest rates: Ther is a negative relationship between intrrest reates and consumption as the cost of borrowing and return for leading lead to higher spending (lower interst rates lead to higher spending on big ticket items, less saving, and lower debt sercicing consts)
+- consumer confidence: Greater consumer confidence (expectations for the fitrie health of the exconomy, income , job prospectis) can have a significant impact on current spending. Eonomistis see consumers confidence as a lending indicator for economic growth.
+
 
 
 
