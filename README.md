@@ -91,6 +91,17 @@ Derenaubts of investment:
 - Availability of funds: The availability of funds is determained by the level of savings form households in the banking system. Interest rates will alse affect the rete of investemnt that is funded through borrowing.
 - corporate indebtedness: The level o f corporate indebtedness will determine the willingness of banks t lend to firms.
 
+###### 3. Government spending (G) can account for 30-40% of GDO and can be in the form of:
+- COnvering the day-to-day costs of running the public sector like the wages and salaries of public employees (current expenditure)
+- investment projects for infrastucture and building public goods (capital expenditure)
+- Wealfare payments such as unempliyment and housing benefits (reansfer expenditure)
+
+Determainants of government spending:
+- Fiscal poliy is the governemnt's ise of taxatpm tp acjoeve ecpmp,oc pnkectove omcluding exonomic growth, price stability, full emploument, and balance of payments equilibrium.
+- Governments that are unable to rise enough tax revenue to meet spending plans engage in borriwing by selling bonds in financial markets. The budget defircit is the amount of borrwing over one year its accumulation is the national debt.
+- Political objectives will affect spending with liberal governments more likely to spend than conservative ones.
+
+
 
 
 
