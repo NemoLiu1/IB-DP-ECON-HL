@@ -56,7 +56,7 @@ $Growth rate = [\frac{GDP for current year - GDP for previous year}{GDP for prev
 ******
 
 Definition of aggregate demand'
-qggregate demand 
+#### qggregate demand 
 
 AD = consumption + investment + government spending + (exports - imports)
 
@@ -65,12 +65,40 @@ The aggregate demand (AD) curve
 
 The aggregate demand curve shows the relationship between the average price level of an economy and the demand for the putput of the economy (represented by real GDP). The average price level of the exonomy is the average prce of all goods and sercices produced in an exonomy at a given proint in time.
 
-Components of aggregate demand (and their determinants)
-1. Consumption (C) is household spending on final goods and services. Spending on intermeiate goods (mansufactureres selling goods to retailers) is not included in consumption. Consumption spending in dveloped countries accounts for around 70% of total GDP and is even higher than this in developing countries.
+##### Components of aggregate demand (and their determinants)
+###### 1. Consumption (C) is household spending on final goods and services. Spending on intermeiate goods (mansufactureres selling goods to retailers) is not included in consumption. Consumption spending in dveloped countries accounts for around 70% of total GDP and is even higher than this in developing countries.
 Determinants of consumption:
 - household income: There is positivei relationship between household income and consumption (as the majority of consumer spending is on normal goods)
 - interest rates: Ther is a negative relationship between intrrest reates and consumption as the cost of borrowing and return for leading lead to higher spending (lower interst rates lead to higher spending on big ticket items, less saving, and lower debt sercicing consts)
 - consumer confidence: Greater consumer confidence (expectations for the fitrie health of the exconomy, income , job prospectis) can have a significant impact on current spending. Eonomistis see consumers confidence as a lending indicator for economic growth.
+
+Components aggregate demand (and their determinants)
+- The level of household indebtedness (the aount that households are borrowing) has a negative relationship with the level of consmption as income will be diverted to servicing the debt.
+- The amount of ealth (cash, property, stocks, etc.) that households have is prositively related to their level of spending
+- Inlftion
+
+###### 2. Investment (I) is where respurces are allocated to produce captial goods that can build up the future productive capactity of an economy. Economists normally consider investment in terms of firms buying now plant and machinery.
+Types of investment:
+- Fixed investment is when firms ourchase land and machinery.
+- Human investment is when firms allocate resources tp education and training to increase the productivity of labor.
+- Reaserch and develeopment in investment into new products and processes.
+- Social investment involes allocating resources (schools and hospital) that can inprove the furture walfare of a country's citizens.
+- Infrastrocure investment means allocation resources to the major physical systems that serve a country's population (inclding energy, transport, communications, etc.)
+
+Derenaubts of investment:
+- Economic growth: Some investment wo;; be responsive to economic growth as firms incest in new capital to meet an increase in demand (especially for products will a high positive YED). This does not include pre-planned investment or replacement investment.
+- Business confidence: it is which relects expectations of future revenue and profit can affect courrent incestment and is measured using the purchasing Managers index (PMI).
+- Availability of funds: The availability of funds is determained by the level of savings form households in the banking system. Interest rates will alse affect the rete of investemnt that is funded through borrowing.
+- corporate indebtedness: The level o f corporate indebtedness will determine the willingness of banks t lend to firms.
+
+
+
+
+
+
+
+
+
 
 
 
