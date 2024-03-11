@@ -97,11 +97,16 @@ Derenaubts of investment:
 - Wealfare payments such as unempliyment and housing benefits (reansfer expenditure)
 
 Determainants of government spending:
-- Fiscal poliy is the governemnt's ise of taxatpm tp acjoeve ecpmp,oc pnkectove omcluding exonomic growth, price stability, full emploument, and balance of payments equilibrium.
-- Governments that are unable to rise enough tax revenue to meet spending plans engage in borriwing by selling bonds in financial markets. The budget defircit is the amount of borrwing over one year its accumulation is the national debt.
-- Political objectives will affect spending with liberal governments more likely to spend than conservative ones.
+- **Fiscal poliy** is the governemnt's ise of **taxation** tp acjoeve ecpmp,oc pnkectove omcluding exonomic growth, price stability, full emploument, and balance of payments equilibrium.
+- Governments that are unable to rise enough tax revenue to meet spending plans engage in **borriwing** by selling bonds in financial markets. The **budget defircit** is the amount of borrwing over one year its accumulation is the **national debt**.
+- **Political objectives** will affect spending with liberal governments more likely to spend than conservative ones.
 
+###### 4. Net exports (X-M) is caluculated as the value of exports (X) minus the value of imports (M). Rxports are domextically produced goods and services that are sod in oeverseals markets that generated an inflow of money into the domestic economy. Inports are goods and services produces overseas and sold in domestic markets that generate and outflow of money form the domestic economy.
 
+Determains of net exports:
+- **Economic growth in overseas markets** will lead to higher demand for a country's exports as forgign households have more income to spend/ **Economic gorwth in domestic markets** will lead to higher demand for imports form overseas.
+- A fall (depreciation) in the **exchange rate** (the value of the domestic currency becomes cheaper relative to other currencies) will make exports relatively cheaper and imports relitiely more expensive. A rise (appreciation) will make exports relatively more expensive and imoirts relatively cheaper.
+- Countries with larger manufacturing sectors (China, Germany, Japan) will have more **trading strength** while countries with waker manufactiring sectors tend to have negative net export values.
 
 
 
