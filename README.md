@@ -56,7 +56,7 @@ $Growth rate = [\frac{GDP for current year - GDP for previous year}{GDP for prev
 ******
 
 Definition of aggregate demand'
-#### qggregate demand 
+#### Aggregate Demand 
 
 AD = consumption + investment + government spending + (exports - imports)
 
@@ -108,6 +108,28 @@ Determains of net exports:
 - A fall (depreciation) in the **exchange rate** (the value of the domestic currency becomes cheaper relative to other currencies) will make exports relatively cheaper and imports relitiely more expensive. A rise (appreciation) will make exports relatively more expensive and imoirts relatively cheaper.
 - Countries with larger manufacturing sectors (China, Germany, Japan) will have more **trading strength** while countries with waker manufactiring sectors tend to have negative net export values.
 
+******
+
+#### Aggregate Supply
+
+##### Defination
+**Aggregate supply** is the total quantity of all goods and services the economy can produce at a given price level and at a given point in time.
+It is the sum of the supply of goods and sercices from all markets in the economy.
+
+AS(aggregate supply) is examined in two different time scales:
+- The **short-run** is the time period in which the price level in the exonomy can change but the cost of factors of production is constant.
+- The **long-run** is the time period in which the cost of all factoes of production can adapt to a change i the price level in the economy.
+
+*[Note: When the averge price level in an economy changes, prices of factors of production (incomes) will not adjust automatically. The time period is not consistent over time or country.]*
+
+##### Short-run aggregate supply (SRAS) curve
+As explained by the profit motive in the model for market supply, there is a positive relationship between the average price level and the level of output that firms in an exonomy are willing and able to priduce.
+
+###### Determaints of SPAS
+- **Resources prices** (the price of inputs relationg tp production) have a significant impact on the majority of firms within a country. (ex. engergy cost like oil price)
+- **Government intervention** 
+- **Government subsidies**
+- **Supply shocks**
 
 
 
