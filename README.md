@@ -118,18 +118,23 @@ It is the sum of the supply of goods and sercices from all markets in the econom
 
 AS(aggregate supply) is examined in two different time scales:
 - The **short-run** is the time period in which the price level in the exonomy can change but the cost of factors of production is constant.
-- The **long-run** is the time period in which the cost of all factoes of production can adapt to a change i the price level in the economy.
+- The **long-run** is the time period in which the cost of all factoes of production can adapt to a change in the price level in the economy.
 
 *[Note: When the averge price level in an economy changes, prices of factors of production (incomes) will not adjust automatically. The time period is not consistent over time or country.]*
 
 ##### Short-run aggregate supply (SRAS) curve
 As explained by the profit motive in the model for market supply, there is a positive relationship between the average price level and the level of output that firms in an exonomy are willing and able to priduce.
 
-###### Determaints of SPAS
+###### Determaints of SRAS
 - **Resources prices** (the price of inputs relationg tp production) have a significant impact on the majority of firms within a country. (ex. engergy cost like oil price)
-- **Government intervention** 
-- **Government subsidies**
+- **Government intervention** can be in the fomr of sales or profit taxes imposed in firms or regulations (safety, enviromental, market power)
+- **Government subsidies** to incentivize firms to increase output. SUbsidies to individual firms or industies are unlikely to impact SRAS, but in some cases an industry makes up a high proprtion of a country's output or impacts most or all other industies (energy, transportation).
 - **Supply shocks**
+
+#####
+
+###### Movements of the LRAS curve (neo-classical model)
+The long-run aggregate supply curve will shift if there is a change in the pitential output of the economy )an outward shift of the productio possibilities curve), LRAS will tend to increase ovwe time and is unlikely to decrease (unless auses by war, pandemic, or natural disaster).
 
 
 
