@@ -122,25 +122,38 @@ AS(aggregate supply) is examined in two different time scales:
 
 *[Note: When the averge price level in an economy changes, prices of factors of production (incomes) will not adjust automatically. The time period is not consistent over time or country.]*
 
-##### Short-run aggregate supply (SRAS) curve
+#### Short-run aggregate supply (SRAS) curve
 As explained by the profit motive in the model for market supply, there is a positive relationship between the average price level and the level of output that firms in an exonomy are willing and able to priduce.
 
-###### Determaints of SRAS
+##### Determaints of SRAS
 - **Resources prices** (the price of inputs relationg tp production) have a significant impact on the majority of firms within a country. (ex. engergy cost like oil price)
 - **Government intervention** can be in the fomr of sales or profit taxes imposed in firms or regulations (safety, enviromental, market power)
 - **Government subsidies** to incentivize firms to increase output. SUbsidies to individual firms or industies are unlikely to impact SRAS, but in some cases an industry makes up a high proprtion of a country's output or impacts most or all other industies (energy, transportation).
-- **Supply shocks**
+- **Supply shocks** (ex. COVID-19, natrual disaster)
 
-#####
+####
 
-###### Movements of the LRAS curve (neo-classical model)
+##### Movements of the LRAS curve (neo-classical model)
 The long-run aggregate supply curve will shift if there is a change in the pitential output of the economy )an outward shift of the productio possibilities curve), LRAS will tend to increase ovwe time and is unlikely to decrease (unless auses by war, pandemic, or natural disaster).
 
+#### Keynesian aggregate supply
+##### Defination
+The keynesian aggregate supply model developed by John Manynard Keynes suggests that there is no distinction between short-run and long-run.
 
+##### Image and How to look at it
+There are three model:
+-
+-
+-
+![image](https://github.com/NemoLiu1/IB-DP-ECON-HL/assets/111040925/d62f2ef5-0746-4d00-b08f-5b2ea6365792)
 
+#### Stagflation
+##### Defination
+The world saw a large and fast increase in oil proces in the 1970s and late 2000s. Due to the importance of oil in production costs across industries, this caused decreases in (short-run) aggregate supply. This creatd a sperial of inflation and falling output (stagflation).
 
+Stageflation happened when the cost of production goes up but people's income are not increasing.
 
-
+#### 5 microaconomic    objective
 
 
 
