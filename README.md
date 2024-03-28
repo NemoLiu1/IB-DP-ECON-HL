@@ -153,7 +153,40 @@ The world saw a large and fast increase in oil proces in the 1970s and late 2000
 
 Stageflation happened when the cost of production goes up but people's income are not increasing.
 
-#### 5 microaconomic    objective
+#### 5 microaconomic objective
+- Non-inflationary growth
+- Low unemployment
+- Low inflation
+- Equilibrium in Balance of Payments
+- Fair distribution of income
+##### Low unemployment
+Defination for unemployment;
+Unemployment is the count of jobless people in a country whi are seeking work but who do not have a job. Unemployed people need to be part of the labor force, in the labor market looking for work, and not just be people of working age who are not working.
+
+Cauculation:
+$Unemployment rate = [\frac{number of unemployment}{total labor force}] * 100%$
+
+###### The labor force
+The labor force is made up of people who are working and unempliyed, but does nor include:
+- Stay-at-home parents
+- People caring for rhe elderly or disabled (not as a job)
+- Students
+- Early retirees
+- Discouraged workers (people who have given up on looking for work)
+
+###### Measuring labor force
+
+###### Problems with this measuring
+Unemployment data is very importent to governments as an indicator of welfare in the country, but calculating an accurate number is problematic dut to:
+1. The difficulty in specifically defining the labor force.
+2. The under-employed (part-time or over-qualified workers who are not producting as numch economic calue as they would like)
+3. Those who claim unemployment benefits are working illegally.
+4. The figure does not indicate the concentration of unemployment in different
+parts of the economy (ie. regions, genders, ethnic groups).
+
+
+
+
 
 
 
