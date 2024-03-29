@@ -159,6 +159,9 @@ Stageflation happened when the cost of production goes up but people's income ar
 - Low inflation
 - Equilibrium in Balance of Payments
 - Fair distribution of income
+
+##### Non-inflationary growth
+
 ##### Low unemployment
 Defination for unemployment;
 Unemployment is the count of jobless people in a country whi are seeking work but who do not have a job. Unemployed people need to be part of the labor force, in the labor market looking for work, and not just be people of working age who are not working.
@@ -176,6 +179,12 @@ The labor force is made up of people who are working and unempliyed, but does no
 
 ###### Measuring labor force
 
+
+###### Measuring unemployment
+Unemployment is difficult to measure because the labor market is constantly changing as people enter and exit the labor force. There are two ways to measure unemployment:
+1. Count the total number of people in a country who are claiming unemployment benefits from the government. This number will almost always under-estimate the actual unemployment figure because many unemployed people do not claim unemployment benefits either because they are only unemployed for a short time, they do not want to apply, or they have enough wealth that they do not qualify for benefits.
+2. The International Labor Organization (ILO) survey counts the number of unemployed people per household. This figure will be higher than the claimant count because it includes those who cannot or choose not to claim benefits, but it cannot cover a country’s entire population.
+
 ###### Problems with this measuring
 Unemployment data is very importent to governments as an indicator of welfare in the country, but calculating an accurate number is problematic dut to:
 1. The difficulty in specifically defining the labor force.
@@ -183,6 +192,19 @@ Unemployment data is very importent to governments as an indicator of welfare in
 3. Those who claim unemployment benefits are working illegally.
 4. The figure does not indicate the concentration of unemployment in different
 parts of the economy (ie. regions, genders, ethnic groups).
+
+
+
+##### Low inflation
+
+##### Equilibrium in Balance of Payments
+##### Fair distribution of income
+
+
+
+
+
+
 
 
 
