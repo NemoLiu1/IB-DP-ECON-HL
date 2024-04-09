@@ -156,7 +156,7 @@ Stageflation happened when the cost of production goes up but people's income ar
 #### 5 microaconomic objective
 - Non-inflationary growth
 - Low unemployment
-- Low inflation
+- Low and stable inflation
 - Equilibrium in Balance of Payments
 - Fair distribution of income
 
@@ -195,7 +195,16 @@ parts of the economy (ie. regions, genders, ethnic groups).
 
 
 
-##### Low inflation
+##### Low and stable inflation
+Definaitions:
+**Inflation** is a sustained (generally over two or more months) increase in theaverage price level of an economy.
+
+**Disinflation** is a fall in the rate of inflation in an economy.
+
+**Deflation** is a sustained decrease in the average price level of an economy.
+
+**Harmonized Consumer Price Index (CPI)** is how the average price level of an economy is measured. It is a weighted index of a basket of
+consumer goods (US CPI records prices of ≈80,000 items each month).
 
 ##### Equilibrium in Balance of Payments
 ##### Fair distribution of income
