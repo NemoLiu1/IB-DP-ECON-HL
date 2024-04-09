@@ -206,6 +206,9 @@ Definaitions:
 **Harmonized Consumer Price Index (CPI)** is how the average price level of an economy is measured. It is a weighted index of a basket of
 consumer goods (US CPI records prices of ≈80,000 items each month).
 
+###### Problems of measuring inflation
+inflation data 
+
 ##### Equilibrium in Balance of Payments
 ##### Fair distribution of income
 
