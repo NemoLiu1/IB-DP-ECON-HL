@@ -194,7 +194,6 @@ Unemployment data is very importent to governments as an indicator of welfare in
 parts of the economy (ie. regions, genders, ethnic groups).
 
 
-
 ##### Low and stable inflation
 Definaitions:
 **Inflation** is a sustained (generally over two or more months) increase in theaverage price level of an economy.
@@ -208,6 +207,21 @@ consumer goods (US CPI records prices of ≈80,000 items each month).
 
 ###### Problems of measuring inflation
 inflation data 
+
+###### Causes of inflation
+The causes of inflation can be looked at from a demand or supply perspective. In reality, it is difficult to separate them as causes of infaltion because the factors that affect aggregate demand and aggregate supply are constantly changing. Economists often focus on periods of high inflation caused by changes either in aggregate demand or aggregate supply.
+
+**Demand-pull inflation**
+Any event that causes AD(aggregate demand) to increases can cause inflation. Periods of demand-pull inflation often lead to an inflationary ga, whiere actual output is higher than full employment output.
+
+**Cost-push inflation**
+Any event that causes costs of production across that economy to increase and SPAS to decrease can cause inflation.
+
+Cost-push inflation can be caused by:
+- Wages rising faster that output which makes avereage costs rise. This can happen when labor unions negotiate wage increases.
+- Rising commodity orices (oil, wheat, rice, metals) which increase the cost of manufactured goods.
+- Increases in the prices to rise, which could makes governments incease interest rates.
+- Firms with significant market power adding to profits by increasing prices more than their increase in costs.7
 
 ##### Equilibrium in Balance of Payments
 ##### Fair distribution of income
