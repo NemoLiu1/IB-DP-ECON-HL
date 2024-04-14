@@ -1,6 +1,6 @@
 # IB-DP-ECON-HL
 Discription
-This is a personal note taken by a Chinese IB DP learner during it's econ class.
+This is a personal note taken by a Chinese IB DP learner during his's econ class.
 
 ---
 
@@ -221,7 +221,18 @@ Cost-push inflation can be caused by:
 - Wages rising faster that output which makes avereage costs rise. This can happen when labor unions negotiate wage increases.
 - Rising commodity orices (oil, wheat, rice, metals) which increase the cost of manufactured goods.
 - Increases in the prices to rise, which could makes governments incease interest rates.
-- Firms with significant market power adding to profits by increasing prices more than their increase in costs.7
+- Firms with significant market power adding to profits by increasing prices more than their increase in costs.
+
+####### Constructing a weighted CPI (HL only)
+1. Find goods and services that will be included in the index and categorize them accoding to type. (ex. Food; Clothing; etc.)
+2. Index number are used to clculate to degee of change for prices in each category. Index numbers show that relateive change in value compated to a base year (ex: if the price of a loaf of bread in the base year is $1.20 and in folling year is $1.30, the index value would be $[[\frac{$1.30}{$1.20}]] * 100% = 108.3$)
+3. Weights are assigned to each catgory representing the average percentage of household income spent on that category (ex: if an average household spends 22% of income on housing, the weighting is 22).
+4. Each category of good (or service) in the price index is multiplied by its weighting. The sum of
+weighted price indices divided by 100 is the weighted index.
+5. The rate of inflation is calculated as the percentage change in the weighted index (ex: if the weighted
+index for 2020 is 104.37 and for 2019 is 101.6, the rate of inflation is calculated as "%'.$( )"%".*
+"%".* =
+2.73%
 
 ##### Equilibrium in Balance of Payments
 ##### Fair distribution of income
