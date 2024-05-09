@@ -237,6 +237,45 @@ index for 2020 is 104.37 and for 2019 is 101.6, the rate of inflation is calcula
 ##### Equilibrium in Balance of Payments
 ##### Fair distribution of income
 
+#### The trade of between all these goals
+
+#### The ways that government achieve this
+
+##### Monetary way/policy
+
+Central bank
+It is an indepenet authority.
+- It can determined the money supply.
+- It sould also know exsacly how many money is out in society.
+- Manage stuff with bonds.
+
+###### Goals of monetary policy
+* central bank should work with all 5 of the economic goals, however in reality, they care about "low and stable inflation" more *
+Intrist rate could affect aggreagte demand, , and etc.
+
+Monetary policy refers to a central bank's use of unterest rate and the money supply. Contral banks use monetary policy to 
+
+1. Controlling inflation through **inflation tatgeting** (around 2-3% for development contriese, since for developing conties's ecoimy is growing, so as their inflation rate)
+2. Lowering unemployment in order to boost consumption spending
+3. Reducing business cycle fluctuations (shorten recessions and maintain growth periods)
+4. Promoting long term growth by creating more certainty with interesr and inflation rates
+      make preoducers have the ability to predict the future of intist and stuff
+5. Maintaining trade balance by reducing deficits and surpluses
+
+
+
+
+Affecting aggregate demand
+
+
+Reserve requirment ratio
+
+
+Money creation (HL)
+The money supply refers to the total amount of money circulating in the economy and consists of all coins, notes, bank balances, and digital currency wallets. The money supply is de
+
+
+假如所有
 
 
 
