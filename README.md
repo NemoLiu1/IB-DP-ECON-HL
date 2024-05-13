@@ -274,8 +274,22 @@ Reserve requirment ratio
 Money creation (HL)
 The money supply refers to the total amount of money circulating in the economy and consists of all coins, notes, bank balances, and digital currency wallets. The money supply is de
 
+##### Fiscal way/policy
 
-假如所有
+###### Goals of fiscal policy
+Fiscal policy refers to a government's use of taxation and government spending. Governments use fiscal policy to move AD in order to achieve macroeconomic objectives.
+1.**Economic growth**
+2.**Low unemployment**
+3.
+
+###### Government sources of revenue
+Governments can generate revenue to fund spending through:
+
+###### contractionary fiscal policy
+The government will use contractionary fiscal by increasing tax rates and reducing government spending to control the inflation rate and close an inflationary gap.
+How it work: increase tax
+
+
 
 
 
