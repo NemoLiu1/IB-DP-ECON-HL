@@ -289,7 +289,15 @@ Governments can generate revenue to fund spending through:
 The government will use contractionary fiscal by increasing tax rates and reducing government spending to control the inflation rate and close an inflationary gap.
 How it work: increase tax
 
+###### The keynesian multiplier
 
+###### Calculating the value of the  multiplier (HL)
+Multiplier = \frac{1}{(1-MPC)} or \frac{1}{(MPS+MPT+MPM)}
+
+- The **marginal propensity to consume (MPC) (a.k.a )**
+It is the proprotionate change in household consumption casues by a change in income.
+\frac{\Delta$}{\Delta$}
+- 
 
 
 
