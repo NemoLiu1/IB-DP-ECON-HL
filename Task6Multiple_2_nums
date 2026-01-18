@@ -1,0 +1,9 @@
+# Task6Multiple_2_nums
+num1 = int(input())
+num2 = int(input())
+
+def multiple(num1, num2):
+    total = num1 * num2
+    return f"{num1} x {num2} = {total}"
+
+print(multiple(num1, num2))
