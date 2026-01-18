@@ -1,0 +1,13 @@
+# TempPythonW9T8
+# Task8Class_hours
+
+def hours_classes():
+    tutes_and_lectures = 10 * 1.5 + 7
+    return tutes_and_lectures
+    
+def total_hours(num_classes):
+    total = hours_classes() * num_classes
+    return total
+    
+number_of_classes = int(input("How many clases are there?"))
+print(f"Totl Hours: {total_hours(number_of_classes):.0f} hours")
